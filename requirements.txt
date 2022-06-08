@@ -1,0 +1,8 @@
+sru @ git+https://github.com/asappresearch/sru@3.0.0-dev
+torch
+numpy
+scipy
+transformers
+datasets
+multimethod
+razdel
